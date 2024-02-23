@@ -1,0 +1,12 @@
+::placeholder {
+    color: rgba(156, 151, 151, 0.559) !important;
+  }
+
+.search-box{
+  background-color: rgb(255, 255, 255);
+  border: none;
+}
+.search-box:focus {
+  background-color: rgb(255, 255, 255);
+  color: rgb(2, 43, 141);
+}
